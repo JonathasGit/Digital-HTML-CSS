@@ -1,3 +1,7 @@
+body {
+    background-color: bisque;
+}
+
 #title
 { color: blue;
 }
@@ -11,4 +15,10 @@
 .titulo3 
 {
     color: orange;
+}
+
+.artigo 
+{
+     background-color: cyan;
+     padding: 0;
 }
