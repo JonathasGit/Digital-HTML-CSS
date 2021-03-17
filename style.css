@@ -1,5 +1,6 @@
 body {
-    background-color: yellow;
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .imagem {
@@ -13,6 +14,7 @@ body {
     font-size: 50px; 
     margin: 0px;
     margin-bottom: 15px;
+    text-transform: uppercase;
 }
 
 
@@ -29,7 +31,7 @@ body {
 
 .artigo 
 {
-     background-color: cyan;  
+     background-color: greenyellow;  
      padding: 0; 
      border: 3px solid #000;
      margin: 10px;
@@ -40,5 +42,10 @@ body {
  margin: 0px;
  margin-bottom: 15px;
  padding: 15px;
+ text-transform: capitalize;
 }
 
+.Link1conteudo {
+    text-decoration: line-through;
+    color: red;
+}
