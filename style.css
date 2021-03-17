@@ -1,9 +1,10 @@
 body {
-    background-color: bisque;
+    background-color: yellow;
 }
 
 #title
 { color: blue;
+    font-size: 50px; <!-- Tamanho da letra do titulo-->
 }
 
 
