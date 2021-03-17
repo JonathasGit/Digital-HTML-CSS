@@ -16,10 +16,14 @@ body {
 .titulo3 
 {
     color: orange;
+    
 }
 
 .artigo 
 {
-     background-color: cyan;
-     padding: 0;
+     background-color: cyan;  <!-- cor do conteudo -->
+     padding: 0; 
+     border: 3px solid #000;
+     margin: 10px;
+    
 }
