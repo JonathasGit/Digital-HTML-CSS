@@ -49,3 +49,14 @@ body {
     text-decoration: line-through;
     color: red;
 }
+
+.lista_contatos {
+    list-style-type: none;
+    padding-left: 15px;
+} 
+
+.lista_contatos li a {
+   
+    color: blue;
+    text-decoration: none;
+}
