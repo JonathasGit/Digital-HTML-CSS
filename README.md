@@ -7,7 +7,7 @@ Essa imagem foi a imagem da primeira tela, porém fiz algumas alterações e col
 <br>
 
 
-<img src="https://github.com/JonathasGit/Digital-HTML-CSS/blob/main/Fotos/jothur1.PNG" />
+<img src="https://github.com/JonathasGit/Digital-HTML-CSS/blob/main/Fotos/foto1.PNG" />
  <br>
  
  <h2> Links </h2>
@@ -20,6 +20,6 @@ Essa imagem foi a imagem da primeira tela, porém fiz algumas alterações e col
  <h1> Imagem 2</h1> <br>
   Aqui não tem nada ver com a aula, só implementando uma segunda  página. <br>
  
- <img src ="https://github.com/JonathasGit/Digital-HTML-CSS/blob/main/Fotos/Jothu2.PNG" /> <br>
+ <img src ="https://github.com/JonathasGit/Digital-HTML-CSS/blob/main/Fotos/foto2.PNG" /> <br>
  
  
