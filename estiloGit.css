@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+
+.titulo{
+    color: blanchedalmond;
+    text-align-last: center;
+}
+
+.texto1 {
+    color: blanchedalmond;
+}
+
+.texto2{
+    color: blanchedalmond;
+}
+
+.texto3{
+    color: blanchedalmond;
+}
+ .pages{
+     color: red;
+ }
+
+ .settings{
+     color: red;
+ }
+
+ .texto4{
+     color: blanchedalmond;
+ }
+
+ .texto5{
+     color:blanchedalmond
+ }
+
+ .source{
+     color: red;
+ }
+
+ .none{
+     color: red;
+ }
+
+ .main{
+     color: red;
+ }
+
+ .final{
+     color:aqua;
+     text-align-last: center;
+ }
+
+ .jonathas{
+     color: brown;
+     text-align-last: center;
+ }
