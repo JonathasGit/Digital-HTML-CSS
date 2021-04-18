@@ -1,0 +1,25 @@
+body{
+    background-image: url("Fotos/fundopreto.jpg");
+}
+
+.titulo{
+    color:cadetblue;    
+}
+
+.texto1{
+    color: whitesmoke;
+}
+
+.texto2{
+    color: whitesmoke;
+}
+
+.fundacao{
+    color: tomato;
+}
+.htmlbasico{
+    color: whitesmoke;
+}
+.htmlavançado{
+    color: whitesmoke;
+}
