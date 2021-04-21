@@ -3,6 +3,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     max-width: 1200px;
     margin: auto;
+    
 }
 
 .imagem {
@@ -69,4 +70,15 @@ body {
 }
 .duvidas {
     color:green
+}
+.direitos{
+  
+        color: blue;
+        clear: both;
+        position: relative;
+        height: 200px;
+        margin-top: -200px;
+        background-color: gray;
+        text-align: center;
+       
 }
