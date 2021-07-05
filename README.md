@@ -1,8 +1,10 @@
 # Digital-HTML-CSS
-Curso de HTML 5 e CSS3 básico da Digital Innovation One
+Curso  = Introdução a criação de websites com HTML5 e CSS3
 
-<b>Concluido</b><br>
-<b>https://jonathasgit.github.io/Digital-HTML-CSS/</b>
+
+
+
+ Acesse o site Oline: <b>https://jonathasgit.github.io/Digital-HTML-CSS/</b>
 
 
 <h1> Como ficou? </h1>
@@ -25,4 +27,7 @@ Essa imagem foi a imagem da primeira tela, porém fiz algumas alterações e col
  
  <img src ="https://github.com/JonathasGit/Digital-HTML-CSS/blob/main/Fotos/foto2.PNG" /> <br>
  
+ Certificado = <a href="https://certificates.digitalinnovation.one/431E699A">Introdução a criação de websites com HTML5 e CSS3 </a>
+ 
+ <b>Concluido</b><br>
  
