@@ -5,6 +5,8 @@ Curso  = Introdução a criação de websites com HTML5 e CSS3
 
 
  Acesse o site Oline: <b>https://jonathasgit.github.io/Digital-HTML-CSS/</b>
+ 
+ Professor : <a href="https://github.com/vilaboim">Lucas Vilaboim</a>
 
 
 <h1> Como ficou? </h1>
