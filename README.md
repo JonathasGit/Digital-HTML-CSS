@@ -24,10 +24,6 @@ Essa imagem foi a imagem da primeira tela, porém fiz algumas alterações e col
  Jothur Informática = Meu canal no Youtube <br><br>
  
  
- <h1> Imagem 2</h1> <br>
-  Aqui não tem nada ver com a aula, só implementando uma segunda  página. <br>
- 
- <img src ="https://github.com/JonathasGit/Digital-HTML-CSS/blob/main/Fotos/foto2.PNG" /> <br>
  
  Certificado = <a href="https://certificates.digitalinnovation.one/431E699A">Introdução a criação de websites com HTML5 e CSS3 </a>
  
